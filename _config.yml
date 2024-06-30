@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://araguaci.github.io/jekyll-my-stars'
-baseurl:          ''
+url:              'https://araguaci.github.io/awesome-jekyll/'
+baseurl:          'https://araguaci.github.io/awesome-jekyll/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
