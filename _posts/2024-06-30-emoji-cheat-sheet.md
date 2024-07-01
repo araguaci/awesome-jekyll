@@ -1,6 +1,6 @@
 ---
 title: Emoji Cheat Sheet
-date: 2023-06-28
+date: 2024-06-30
 category: Tools
 tags: Tools
 layout: post
@@ -10,8 +10,6 @@ mermaid: true
 [![Up to Date](https://github.com/ikatyang/emoji-cheat-sheet/workflows/Up%20to%20Date/badge.svg)](https://github.com/ikatyang/emoji-cheat-sheet/actions?query=workflow%3A%22Up+to+Date%22)
 
 This cheat sheet is automatically generated from [GitHub Emoji API](https://api.github.com/emojis) and [Unicode Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html).
-
-### [**from source...**](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 ## Table of Contents
 
@@ -42,6 +40,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 - [Face Costume](#face-costume)
 - [Cat Face](#cat-face)
 - [Monkey Face](#monkey-face)
+- [Heart](#heart)
 - [Emotion](#emotion)
 
 #### Face Smiling
@@ -177,29 +176,33 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#smileys--emotion) | :see_no_evil: | `:see_no_evil:` | :hear_no_evil: | `:hear_no_evil:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :speak_no_evil: | `:speak_no_evil:` | | | [top](#table-of-contents) |
 
+#### Heart
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#smileys--emotion) | :love_letter: | `:love_letter:` | :cupid: | `:cupid:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :gift_heart: | `:gift_heart:` | :sparkling_heart: | `:sparkling_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :heartpulse: | `:heartpulse:` | :heartbeat: | `:heartbeat:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :revolving_hearts: | `:revolving_hearts:` | :two_hearts: | `:two_hearts:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :heart_decoration: | `:heart_decoration:` | :heavy_heart_exclamation: | `:heavy_heart_exclamation:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :broken_heart: | `:broken_heart:` | :heart_on_fire: | `:heart_on_fire:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :mending_heart: | `:mending_heart:` | :heart: | `:heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :orange_heart: | `:orange_heart:` | :yellow_heart: | `:yellow_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :green_heart: | `:green_heart:` | :blue_heart: | `:blue_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :purple_heart: | `:purple_heart:` | :brown_heart: | `:brown_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :black_heart: | `:black_heart:` | :white_heart: | `:white_heart:` | [top](#table-of-contents) |
+
 #### Emotion
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
-| [top](#smileys--emotion) | :kiss: | `:kiss:` | :love_letter: | `:love_letter:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :cupid: | `:cupid:` | :gift_heart: | `:gift_heart:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :sparkling_heart: | `:sparkling_heart:` | :heartpulse: | `:heartpulse:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :heartbeat: | `:heartbeat:` | :revolving_hearts: | `:revolving_hearts:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :two_hearts: | `:two_hearts:` | :heart_decoration: | `:heart_decoration:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :heavy_heart_exclamation: | `:heavy_heart_exclamation:` | :broken_heart: | `:broken_heart:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :heart_on_fire: | `:heart_on_fire:` | :mending_heart: | `:mending_heart:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :heart: | `:heart:` | :orange_heart: | `:orange_heart:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :yellow_heart: | `:yellow_heart:` | :green_heart: | `:green_heart:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :blue_heart: | `:blue_heart:` | :purple_heart: | `:purple_heart:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :brown_heart: | `:brown_heart:` | :black_heart: | `:black_heart:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :white_heart: | `:white_heart:` | :100: | `:100:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :kiss: | `:kiss:` | :100: | `:100:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :anger: | `:anger:` | :boom: | `:boom:` <br /> `:collision:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :dizzy: | `:dizzy:` | :sweat_drops: | `:sweat_drops:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :dash: | `:dash:` | :hole: | `:hole:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :bomb: | `:bomb:` | :speech_balloon: | `:speech_balloon:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :eye_speech_bubble: | `:eye_speech_bubble:` | :left_speech_bubble: | `:left_speech_bubble:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :right_anger_bubble: | `:right_anger_bubble:` | :thought_balloon: | `:thought_balloon:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :zzz: | `:zzz:` | | | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :speech_balloon: | `:speech_balloon:` | :eye_speech_bubble: | `:eye_speech_bubble:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :left_speech_bubble: | `:left_speech_bubble:` | :right_anger_bubble: | `:right_anger_bubble:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :thought_balloon: | `:thought_balloon:` | :zzz: | `:zzz:` | [top](#table-of-contents) |
 
 ### People & Body
 
@@ -457,19 +460,19 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_woman_woman: | `:couplekiss_woman_woman:` | [top](#table-of-contents) |
 | [top](#people--body) | :couple_with_heart: | `:couple_with_heart:` | :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | [top](#table-of-contents) |
 | [top](#people--body) | :couple_with_heart_man_man: | `:couple_with_heart_man_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` | [top](#table-of-contents) |
-| [top](#people--body) | :family: | `:family:` | :family_man_woman_boy: | `:family_man_woman_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_woman_girl: | `:family_man_woman_girl:` | :family_man_woman_girl_boy: | `:family_man_woman_girl_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_woman_boy_boy: | `:family_man_woman_boy_boy:` | :family_man_woman_girl_girl: | `:family_man_woman_girl_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_man_boy: | `:family_man_man_boy:` | :family_man_man_girl: | `:family_man_man_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_man_girl_boy: | `:family_man_man_girl_boy:` | :family_man_man_boy_boy: | `:family_man_man_boy_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_man_girl_girl: | `:family_man_man_girl_girl:` | :family_woman_woman_boy: | `:family_woman_woman_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_woman_girl: | `:family_woman_woman_girl:` | :family_woman_woman_girl_boy: | `:family_woman_woman_girl_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_woman_boy_boy: | `:family_woman_woman_boy_boy:` | :family_woman_woman_girl_girl: | `:family_woman_woman_girl_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_boy: | `:family_man_boy:` | :family_man_boy_boy: | `:family_man_boy_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_girl: | `:family_man_girl:` | :family_man_girl_boy: | `:family_man_girl_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_girl_girl: | `:family_man_girl_girl:` | :family_woman_boy: | `:family_woman_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_boy_boy: | `:family_woman_boy_boy:` | :family_woman_girl: | `:family_woman_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_girl_boy: | `:family_woman_girl_boy:` | :family_woman_girl_girl: | `:family_woman_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_boy: | `:family_man_woman_boy:` | :family_man_woman_girl: | `:family_man_woman_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_girl_boy: | `:family_man_woman_girl_boy:` | :family_man_woman_boy_boy: | `:family_man_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_girl_girl: | `:family_man_woman_girl_girl:` | :family_man_man_boy: | `:family_man_man_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_man_girl: | `:family_man_man_girl:` | :family_man_man_girl_boy: | `:family_man_man_girl_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_man_boy_boy: | `:family_man_man_boy_boy:` | :family_man_man_girl_girl: | `:family_man_man_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_boy: | `:family_woman_woman_boy:` | :family_woman_woman_girl: | `:family_woman_woman_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_girl_boy: | `:family_woman_woman_girl_boy:` | :family_woman_woman_boy_boy: | `:family_woman_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_girl_girl: | `:family_woman_woman_girl_girl:` | :family_man_boy: | `:family_man_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_boy_boy: | `:family_man_boy_boy:` | :family_man_girl: | `:family_man_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_girl_boy: | `:family_man_girl_boy:` | :family_man_girl_girl: | `:family_man_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_boy: | `:family_woman_boy:` | :family_woman_boy_boy: | `:family_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_girl: | `:family_woman_girl:` | :family_woman_girl_boy: | `:family_woman_girl_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_girl_girl: | `:family_woman_girl_girl:` | | | [top](#table-of-contents) |
 
 #### Person Symbol
 
@@ -477,7 +480,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :speaking_head: | `:speaking_head:` | :bust_in_silhouette: | `:bust_in_silhouette:` | [top](#table-of-contents) |
 | [top](#people--body) | :busts_in_silhouette: | `:busts_in_silhouette:` | :people_hugging: | `:people_hugging:` | [top](#table-of-contents) |
-| [top](#people--body) | :footprints: | `:footprints:` | | | [top](#table-of-contents) |
+| [top](#people--body) | :family: | `:family:` | :footprints: | `:footprints:` | [top](#table-of-contents) |
 
 ### Animals & Nature
 
@@ -599,7 +602,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#animals--nature) | :ear_of_rice: | `:ear_of_rice:` | :herb: | `:herb:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :shamrock: | `:shamrock:` | :four_leaf_clover: | `:four_leaf_clover:` | [top](#table-of-contents) |
 | [top](#animals--nature) | :maple_leaf: | `:maple_leaf:` | :fallen_leaf: | `:fallen_leaf:` | [top](#table-of-contents) |
-| [top](#animals--nature) | :leaves: | `:leaves:` | | | [top](#table-of-contents) |
+| [top](#animals--nature) | :leaves: | `:leaves:` | :mushroom: | `:mushroom:` | [top](#table-of-contents) |
 
 ### Food & Drink
 
@@ -637,8 +640,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#food--drink) | :bell_pepper: | `:bell_pepper:` | :cucumber: | `:cucumber:` | [top](#table-of-contents) |
 | [top](#food--drink) | :leafy_green: | `:leafy_green:` | :broccoli: | `:broccoli:` | [top](#table-of-contents) |
 | [top](#food--drink) | :garlic: | `:garlic:` | :onion: | `:onion:` | [top](#table-of-contents) |
-| [top](#food--drink) | :mushroom: | `:mushroom:` | :peanuts: | `:peanuts:` | [top](#table-of-contents) |
-| [top](#food--drink) | :chestnut: | `:chestnut:` | | | [top](#table-of-contents) |
+| [top](#food--drink) | :peanuts: | `:peanuts:` | :chestnut: | `:chestnut:` | [top](#table-of-contents) |
 
 #### Food Prepared
 
@@ -955,9 +957,9 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
 | [top](#activities) | :dart: | `:dart:` | :yo_yo: | `:yo_yo:` | [top](#table-of-contents) |
-| [top](#activities) | :kite: | `:kite:` | :8ball: | `:8ball:` | [top](#table-of-contents) |
-| [top](#activities) | :crystal_ball: | `:crystal_ball:` | :magic_wand: | `:magic_wand:` | [top](#table-of-contents) |
-| [top](#activities) | :nazar_amulet: | `:nazar_amulet:` | :video_game: | `:video_game:` | [top](#table-of-contents) |
+| [top](#activities) | :kite: | `:kite:` | :gun: | `:gun:` | [top](#table-of-contents) |
+| [top](#activities) | :8ball: | `:8ball:` | :crystal_ball: | `:crystal_ball:` | [top](#table-of-contents) |
+| [top](#activities) | :magic_wand: | `:magic_wand:` | :video_game: | `:video_game:` | [top](#table-of-contents) |
 | [top](#activities) | :joystick: | `:joystick:` | :slot_machine: | `:slot_machine:` | [top](#table-of-contents) |
 | [top](#activities) | :game_die: | `:game_die:` | :jigsaw: | `:jigsaw:` | [top](#table-of-contents) |
 | [top](#activities) | :teddy_bear: | `:teddy_bear:` | :pinata: | `:pinata:` | [top](#table-of-contents) |
@@ -1165,7 +1167,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#objects) | :hammer: | `:hammer:` | :axe: | `:axe:` | [top](#table-of-contents) |
 | [top](#objects) | :pick: | `:pick:` | :hammer_and_pick: | `:hammer_and_pick:` | [top](#table-of-contents) |
 | [top](#objects) | :hammer_and_wrench: | `:hammer_and_wrench:` | :dagger: | `:dagger:` | [top](#table-of-contents) |
-| [top](#objects) | :crossed_swords: | `:crossed_swords:` | :gun: | `:gun:` | [top](#table-of-contents) |
+| [top](#objects) | :crossed_swords: | `:crossed_swords:` | :bomb: | `:bomb:` | [top](#table-of-contents) |
 | [top](#objects) | :boomerang: | `:boomerang:` | :bow_and_arrow: | `:bow_and_arrow:` | [top](#table-of-contents) |
 | [top](#objects) | :shield: | `:shield:` | :carpentry_saw: | `:carpentry_saw:` | [top](#table-of-contents) |
 | [top](#objects) | :wrench: | `:wrench:` | :screwdriver: | `:screwdriver:` | [top](#table-of-contents) |
@@ -1216,7 +1218,8 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | - | :-: | - | :-: | - | - |
 | [top](#objects) | :smoking: | `:smoking:` | :coffin: | `:coffin:` | [top](#table-of-contents) |
 | [top](#objects) | :headstone: | `:headstone:` | :funeral_urn: | `:funeral_urn:` | [top](#table-of-contents) |
-| [top](#objects) | :moyai: | `:moyai:` | :placard: | `:placard:` | [top](#table-of-contents) |
+| [top](#objects) | :nazar_amulet: | `:nazar_amulet:` | :moyai: | `:moyai:` | [top](#table-of-contents) |
+| [top](#objects) | :placard: | `:placard:` | | | [top](#table-of-contents) |
 
 ### Symbols
 
@@ -1580,13 +1583,16 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
-| [top](#github-custom-emoji) | :atom: | `:atom:` | :basecamp: | `:basecamp:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :accessibility: | `:accessibility:` | :atom: | `:atom:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :basecamp: | `:basecamp:` | :basecampy: | `:basecampy:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :electron: | `:electron:` | :feelsgood: | `:feelsgood:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :finnadie: | `:finnadie:` | :goberserk: | `:goberserk:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :godmode: | `:godmode:` | :hurtrealbad: | `:hurtrealbad:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :neckbeard: | `:neckbeard:` | :octocat: | `:octocat:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :rage1: | `:rage1:` | :rage2: | `:rage2:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :rage3: | `:rage3:` | :rage4: | `:rage4:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :shipit: | `:shipit:` | :suspect: | `:suspect:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :trollface: | `:trollface:` | | | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :finnadie: | `:finnadie:` | :fishsticks: | `:fishsticks:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :goberserk: | `:goberserk:` | :godmode: | `:godmode:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :hurtrealbad: | `:hurtrealbad:` | :neckbeard: | `:neckbeard:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :octocat: | `:octocat:` | :rage1: | `:rage1:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :rage2: | `:rage2:` | :rage3: | `:rage3:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :rage4: | `:rage4:` | :shipit: | `:shipit:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :suspect: | `:suspect:` | :trollface: | `:trollface:` | [top](#table-of-contents) |
+
+### [**source...**](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)

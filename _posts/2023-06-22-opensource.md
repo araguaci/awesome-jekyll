@@ -6,32 +6,27 @@ tags: Projects
 layout: post
 mermaid: true
 ---
- 
 
-## Table of Contents
-
-- [Open Source](#open-source)
-  - [Table of Contents](#table-of-contents)
-  - [Favorites#](#favorites)
-  - [Swift frameworks#](#swift-frameworks)
-  - [Contributions#](#contributions)
-    - [Contributions to hyperoslo[#](#contributions-to-hyperoslohttpsgithubcomhyperoslo)](#contributions-to-hyperoslo)
-    - [Contributions to BlindAssist[#](#contributions-to-blindassisthttpsgithubcomblindassist)](#contributions-to-blindassist)
-  - [Objective C#](#objective-c)
-  - [Android#](#android)
-  - [Flutter / Dart#](#flutter--dart)
-  - [Windows Phone#](#windows-phone)
-  - [Xcode plugin#](#xcode-plugin)
-  - [Xcode extension#](#xcode-extension)
-  - [iOS app#](#ios-app)
-  - [macOS app#](#macos-app)
-  - [Electron#](#electron)
-  - [Javascript#](#javascript)
-  - [C#](#c)
-  - [Browser extension#](#browser-extension)
-  - [Sketch plugin#](#sketch-plugin)
-  - [Slack bot#](#slack-bot)
-  - [Misc#](#misc)
+- [Favorites#](#favorites)
+- [Swift frameworks#](#swift-frameworks)
+- [Contributions#](#contributions)
+  - [Contributions to hyperoslo#](#contributions-to-hyperoslo)
+  - [Contributions to BlindAssist#](#contributions-to-blindassist)
+- [Objective C#](#objective-c)
+- [Android#](#android)
+- [Flutter / Dart#](#flutter--dart)
+- [Windows Phone#](#windows-phone)
+- [Xcode plugin#](#xcode-plugin)
+- [Xcode extension#](#xcode-extension)
+- [iOS app#](#ios-app)
+- [macOS app#](#macos-app)
+- [Electron#](#electron)
+- [Javascript#](#javascript)
+- [C#](#c)
+- [Browser extension#](#browser-extension)
+- [Sketch plugin#](#sketch-plugin)
+- [Slack bot#](#slack-bot)
+- [Misc#](#misc)
 
 Here are open source projects I make and contribute
 

@@ -33,6 +33,7 @@
                 </div>
 
                 <div class="body-inner">
+                    {%- include toc.html -%}
                     {%- include body.html -%}
 
                     {% if page.previous %}
@@ -62,6 +63,18 @@
         </div>
 
         {%- include footer.html -%}
+    
+    <!--
+        <script type="text/javascript">
+            function openLinksInNewWindow() {
+                const links = document.querySelectorAll('a');
+                links.forEach(link => {
+                    link.target = '_blank'; // Opens links in a new tab/window
+                });
+            }
+            openLinksInNewWindow();
+        </script>
+    -->
 
     </body>
 </html>

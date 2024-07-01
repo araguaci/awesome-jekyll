@@ -1,17 +1,15 @@
 ---
-title: Deep Learning for Coders
+title: 📺 Deep Learning for Coders
 date: 2023-06-27
 category: Courses
 tags: Tools
 layout: post
 mermaid: true
----
-
-# 📺 ML YouTube Courses
+--- 
 
 At DAIR.AI we ❤️ open education. We are excited to share some of the best and most recent machine learning courses available on YouTube.
 
-### [source](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md)
+## [source](https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md)
 
 Course List:
 

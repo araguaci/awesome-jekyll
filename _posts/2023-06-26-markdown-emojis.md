@@ -1,13 +1,11 @@
 ---
-title: All the emojis
+title: 🌟 All the emojis 
 date: 2023-06-26
 category: Tools
 tags: Tools
 layout: post
 mermaid: true
----
-
-# :fire: All the emojis :tada:
+--- 
 
 ## People
 

@@ -15,8 +15,6 @@ order: 5
 - [![Patron](https://badgen.net/badge/icon/patreon?icon=patreon&color=orange)](https://patreon.com/artesdosul) 
 - [![Buy me a coffee](https://badgen.net/badge/icon/buymeacoffee?icon=buymeacoffee&color=yellow)](https://buymeacoffee.com/araguaci)  
 
-![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
-
 ### Na Rede
 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/araguaci.andrade) 
@@ -26,17 +24,15 @@ order: 5
 
 ### Projetos
 
-- [![suntzu EN](https://img.shields.io/badge/suntzu%20English-red)](https://suntzu.vercel.app)
-- [![suntzu PT](https://img.shields.io/badge/suntzu%20Português-blue)](https://sabedoria-suntzu.vercel.app)
-- [![stop-war-for-ever](https://img.shields.io/endpoint?color=purple&label=STOP&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi. - php%3Fcallback%3Dstop)](https://stop-war-for-ever.vercel.app)
-- [![Website](https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww. - artesdosul.com%2Fapi.php%3Fcallback%3Dweb)](https://www.artesdosul.com)
+- [![suntzu EN](https://img.shields.io/badge/suntzu-english-red)](https://suntzu.vercel.app)
+- [![suntzu PT](https://img.shields.io/badge/suntzu-português-blue)](https://sabedoria-suntzu.vercel.app)
+- [![stop-war-for-ever](https://img.shields.io/badge/stop%20war-for%20ever-purple)](https://stop-war-for-ever.vercel.app)
+- [![artesdosul](https://img.shields.io/badge/artesdosul-web-grenn)](https://www.artesdosul.com)
 
-### Todo
+### TODO [Markdown-Badges](https://github.com/Ileriayo/markdown-badges)
 
-[markdown-badges](https://github.com/Ileriayo/markdown-badges)
-
-- [ ] ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-- [ ] ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-- [ ] ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-- [ ] ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-- [ ] ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+[ ] - ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+[ ] - ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
+[ ] - ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[ ] - ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+[ ] - ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)

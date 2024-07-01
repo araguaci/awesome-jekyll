@@ -7,21 +7,12 @@ layout: post
 mermaid: true
 ---
 
-## ➤ Table of Contents
-
-- [➤ Table of Contents](#-table-of-contents)
-  - [Server UP](#server-up)
-  - [Where We Come](#where-we-come)
-  - [Who am i](#who-am-i)
-  - [Learning](#learning)
-  - [Readme Tools](#readme-tools)
-  - [Tools For Devs](#tools-for-devs)
 - [Open-Source](#open-source)
   - [Components](#components)
   - [App](#app)
   - [Linux](#linux)
   - [Code Design](#code-design)
-- [➤ Table of Contents](#-table-of-contents-1)
+- [➤ Table of Contents](#-table-of-contents)
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
